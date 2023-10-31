@@ -19,6 +19,7 @@ public interface CustomerService {
 	public Customer getByEmail(String email);
 	
 	public Customer loginCustomer(String email , String password) throws InvalidUserDetailsException;
+
 	
 
 }
