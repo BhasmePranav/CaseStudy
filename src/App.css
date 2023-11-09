@@ -1,0 +1,14 @@
+/* Using the @keyframes animation */
+@keyframes fadeIn {
+    from {
+      opacity: -100;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+   
+  /* Apply the animation to a specific element with a 2-second duration */
+  div {
+    animation: fadeIn 1.5s; /* Increased from 1s to 2s */
+  }

@@ -1,0 +1,71 @@
+.LoginDiv
+{
+    margin-top: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
+
+.LeftDataDiv
+{
+    margin-top: 40px;
+    margin-left: 50px;
+    text-align: center;
+    font-display: calc(10px + 2vmin);
+    justify-content: center;
+    justify-items: center;
+    border: 2.5px solid green;
+    font-size: calc(10px + 2vmin);
+    width: 600px;
+    height: 350px;
+    display: flex;
+}
+
+.LoginForm
+{
+    margin-top: -280px;
+    margin-left: 650px;
+    text-align: center;
+    font-display: calc(10px + 2vmin);
+    justify-content: center;
+    justify-items: center;
+    border: 2.5px solid green;
+    font-size: calc(10px + 2vmin);
+    width: 400px;
+    height: 350px;
+}
+
+.LoginEmail , .LoginPassword ,.RoleInputLogin
+{
+    align-self : center;
+    margin-top: 50px;
+    width: 250px;
+    height: 30px;
+    font-weight: 40px;
+    border-bottom: 2.5px solid black;
+    border-top: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+    font-size: medium;
+    background-color: white;
+    text-decoration-color: black;
+}
+
+.LoginButton{
+    align-self: center;
+    font-size: large;
+    font-weight: bold;
+    width: 90px;
+    height: 40px;
+    margin-top: 40px;
+    color: white;
+    background-color: green;
+}
+
+
+
+
+

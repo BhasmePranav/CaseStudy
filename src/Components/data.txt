@@ -1,0 +1,15 @@
+
+Address Links 
+direct link : `https://www.google.com/maps/dir/?api=1&destination=satara`
+
+Joshi Villa  : `https://maps.app.goo.gl/b2rbzQYzLBUvcu6C9`
+Address : 52/4, Sector 20/B, Sector 20, Airoli, Navi Mumbai, Maharashtra 400708
+
+GreenWorld appartment : 'https://maps.app.goo.gl/pa9RoHwraBa6Mp696`
+Address : vitawa, Kalwa , Thane, Maharashtra 400605
+
+Marriot Juhu : `https://maps.app.goo.gl/Rw3mXQM7HVfsrnrB6`
+Address : Jw Marriott Mumbai Juhu, Juhu Tara Rd, Juhu Tara, Juhu, Mumbai, Maharashtra 400049
+
+
+

@@ -1,0 +1,94 @@
+.BookingCardDiv {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 15px; 
+  padding: 20px;
+  margin-bottom: 100px;
+}
+
+.IndvCard {
+  border: 3px solid green; 
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  font-size: 20px;
+  justify-content: center;
+  font-weight: 30px;
+}
+
+.CancelBookButton 
+{
+    align-self: center;
+    font-size: 13px;
+    font-weight: bold;
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+.GetReceiptButton
+{
+    margin-left: 80px;
+    align-self: center;
+    font-size: 13px;
+    font-weight: bold;
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.IndvCard.cancelled {
+  border: 3px solid red; 
+  /* Change the border style for canceled bookings */
+}
+
+.IndvCard.accepted {
+  border: 3px solid blue; /* Change the border style for accepted bookings */
+  
+}
+
+.CancelBookButton:disabled {
+  background-color: #bdc3c7;
+  color: #7f8c8d;
+  cursor: not-allowed;
+}
+
+.InfoCol
+{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  
+}
+.MainForInfoCol
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.TitleStat
+{
+  
+  justify-content: center;
+  padding-top: 13px;
+  width: 200px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+}
+
+.AddLink
+{
+  color: blue;
+  font-size: 20px;
+  margin-top: 10px;
+}
+

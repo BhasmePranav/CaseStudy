@@ -1,0 +1,125 @@
+.UserProfile
+{
+    border: 2.5px solid black;
+    border-radius: 10%;
+    width: 1300px;
+    height: 650px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.HelloLine
+{
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+
+.ProfilePicImg
+{
+    width: 250px;
+    height: 230px;
+    border: 2px solid black;
+    margin-left: 55px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.ProfileData
+{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.DataForUpdate 
+{
+    width: 800px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: -490px;
+    margin-left: 350px;
+}
+.UpdateProfileData
+{
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+.UpDButton
+{
+    margin-left: 700px;
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.PaymentDiv
+{
+    width: 800px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 350px;
+}
+.DetailsHeading
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.UpdatePopUpForm
+{
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    
+}
+.UpdateInput
+{
+    width: 400px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-top: 0px;
+    border-left: 0px ;
+    border-right: 0px;
+    border-bottom: 2px solid black;
+    
+}
+
+.UpdateDataButton , .DeleteAccountButton  
+{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    justify-content: center;
+    margin-left: 55px;
+    background-color: Black;
+    color : white;
+    font-weight: bold;
+
+}
+.LogOutButton
+{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    justify-content: center;
+    margin-left: 55px;
+    background-color: Black;
+    color : white;
+    font-weight: bold;
+}
+
+.UpdateDataButton:hover
+{
+  background-color:lawngreen;
+  border: black;
+  color : black;
+}
+

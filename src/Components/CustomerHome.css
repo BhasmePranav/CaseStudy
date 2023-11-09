@@ -1,0 +1,95 @@
+.CusotmerHomeNavbar
+{
+    background-color: red;
+}
+
+.WashingPackage1 , .WashingPackage2 
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+}
+.Touchless , .Handwash
+{
+    margin-left: 50px;
+    
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.CustomerHome , .Cars
+{
+    font-size: 16px;
+    margin-left: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.main
+{
+    justify-content: center;
+    
+}
+.HeadingCust
+{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    font-stretch: expanded;
+    margin-top: 110px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.Heading2Cust
+{
+    font-weight: bold;
+    font-size: 30px;
+    font-stretch: expanded;
+    margin-top: 00px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+    margin-left: 80px;
+}
+
+.Heading3Cust
+{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    font-stretch: expanded;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Heading4Cust
+{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    font-stretch: expanded;
+    margin-top: -5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.BtnBookN
+{
+    width: 300px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 500px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid green ;
+    background-color: green;
+    color: White;
+    font-weight: bold;
+}
+
+.BtnBookN:hover
+{
+    color: white;
+    background-color: black;
+}
